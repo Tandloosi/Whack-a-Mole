@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Whack a Mole": {
+      "commandName": "Project",
+      "hotReloadEnabled": true
+    }
+  }
+}
